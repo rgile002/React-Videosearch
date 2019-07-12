@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It's a react app to search and play video from youtube.
+
 ## Available Scripts
 
 In the project directory, you can run:
